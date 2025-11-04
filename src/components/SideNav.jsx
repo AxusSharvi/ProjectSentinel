@@ -18,9 +18,9 @@ function SideNav() {
                     <p className='text-[16px] text-[#4B5563]'>Smart Helmet</p>
                 </div>
             </div>
-            <hr className="my-2 w-[90%] border-gray-200" />
+            <hr className="my-2 w-full w-[90%] border-gray-200" />
 
-            <nav className="w-full border-t border-gray-200">
+            <nav className="w-full">
                 <span className="ml-7 text-[16px] text-gray-400">Main</span>
                 <ul className="nav-list w-full px-4">
                     <li className="nav-item">
